@@ -1,8 +1,6 @@
 # Olá! Eu sou a Lohanne Castro 🌙✨
+<h3 align="center">Front-End Developer · Palmas, TO, Brasil 🌿</h3>
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=A855F7&center=true&vCenter=true&width=500&lines=Front-End+Developer+em+construção+🛠️;HTML+%7C+CSS+%7C+JavaScript+Vanilla;Apaixonada+por+design+e+estética+✨;De+Palmas%2C+Tocantins+🌿" alt="Typing SVG" />
-</div>
 
 ---
 
