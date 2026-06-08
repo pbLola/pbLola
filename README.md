@@ -1,27 +1,66 @@
-# 💫 About Me:
-FrontEnd Developer<br>
+# Olá! Eu sou a Lohanne Castro 🌙✨
 
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/lohanne-castro-oliveira-3ba784163/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:lohannecastro88@gmail.com) 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pbLola&layout=normal&stats_format=bytes)](https://github.com/pbLola)
-
-
-<!--h1 without bottom border-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">Technologies That I Know👨🏻‍💻</h2></summary>
-  </ul>
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=A855F7&center=true&vCenter=true&width=500&lines=Front-End+Developer+em+construção+🛠️;HTML+%7C+CSS+%7C+JavaScript+Vanilla;Apaixonada+por+design+e+estética+✨;De+Palmas%2C+Tocantins+🌿" alt="Typing SVG" />
 </div>
-<!--tech stack icons-->
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,aws,cpp,css,discord,docker,postgres,prisma,pug,dynamodb,express,figma,firebase,redis,github,html,java,js,linux,md,materialui,nginx,mongodb,mysql,nextjs,nodejs,postman,py,react,redux,tailwind,ts,vscode,kubernetes&perline=14" />
-  </a>
-</p>
 
+---
 
+## 👩‍💻 Sobre mim
 
+Sou desenvolvedora Front-End em transição de carreira, vindo de uma sólida base em **suporte de TI**. Trago comigo atenção aos detalhes, resolução de problemas e muita vontade de construir interfaces bonitas e funcionais.
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+Atualmente estudando no **IFTO** e construindo meu portfólio com projetos reais — do wireframe no papel ao deploy. 📓
+
+---
+
+## 🛠️ Tecnologias
+
+<div align="left">
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+</div>
+
+> 🌱 React em progresso...
+
+---
+
+## 🚀 Projetos em Destaque
+
+| Projeto | Descrição | Tecnologias |
+|---|---|---|
+| 🔮 [Wishlist Mística](https://github.com/pbLola) | App de wishlist com estética bullet journal — CSS Grid, LocalStorage e filtros por categoria | HTML · CSS · JS |
+| ⏱️ [focusApp](https://github.com/pbLola/focusApp) | Timer Pomodoro para foco e produtividade | HTML · CSS · JS |
+| 🧮 Calculadora (https://github.com/pbLola/calculadora) | HTML · CSS · JS |
+| ✅ To-Do List | Em breve | HTML · CSS · JS |
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=pbLola&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pbLola&layout=compact&theme=tokyonight&hide_border=true" />
+</div>
+
+---
+
+## 🌐 Onde me encontrar
+
+<div align="left">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lohanne-castro-oliveira/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pbLola)
+
+</div>
+
+---
+
+<div align="center">
+  <sub>✨ Palmas-TO, Brasil 🌿</sub>
+</div>
