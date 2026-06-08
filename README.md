@@ -40,13 +40,10 @@ Atualmente estudando no **IFTO** e construindo meu portfólio. 📓
 ---
 
 ## 📊 GitHub Stats
-
 <div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=pbLola&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pbLola&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=pbLola&theme=tokyonight&hide_border=true&locale=pt_BR" />
 </div>
 
----
 
 ## 🌐 Onde me encontrar
 
