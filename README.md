@@ -1,14 +1,14 @@
 # Olá! Eu sou a Lohanne Castro 🌙✨
-<h3 align="center">Front-End Developer · Palmas, TO, Brasil 🌿</h3>
+<h3 align="center">🪄 Front-End Developer · Palmas, TO, Brasil 🪄​ </h3>
 
 
 ---
 
 ## 👩‍💻 Sobre mim
 
-Sou desenvolvedora Front-End em transição de carreira, vindo de uma sólida base em **suporte de TI**. Trago comigo atenção aos detalhes, resolução de problemas e muita vontade de construir interfaces bonitas e funcionais.
+🔮​ Sou desenvolvedora Front-End fazendo mágica com código 🔮​
 
-Atualmente estudando no **IFTO** e construindo meu portfólio com projetos reais — do wireframe no papel ao deploy. 📓
+Atualmente estudando no **IFTO** e construindo meu portfólio. 📓
 
 ---
 
