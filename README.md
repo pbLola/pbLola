@@ -26,7 +26,7 @@ Atualmente estudando no **IFTO** e construindo meu portfólio. 📓
 
 > 🌱 React em progresso...
 
----
+--- 
 
 ## 🚀 Projetos em Destaque
 
